@@ -7,29 +7,29 @@ Automated translation linter reports for cs2kz-metamod.
 | Metric | Value |
 |--------|-------|
 | **Linter Errors** | 0 |
-| **Linter Warnings** | 23 |
+| **Linter Warnings** | 24 |
 | **Total Languages** | 13 |
-| **Total Phrases** | 625 |
-| **Phrases Missing Translations** | 409 |
-| **Total Missing Entries** | 2581 |
+| **Total Phrases** | 711 |
+| **Phrases Missing Translations** | 495 |
+| **Total Missing Entries** | 3588 |
 | **Menu Files** | 10 |
 
 ## Language Coverage (Phrases)
 
 ```
-  chi (schinese)       [████████████████████] 100.0% (625/625)
-  de (german)          [████████████████░░░░]  82.1% (513/625)
-  en (english)         [████████████████████] 100.0% (625/625)
-  es (spanish)         [█████████░░░░░░░░░░░]  45.4% (284/625)
-  fi (finnish)         [███████░░░░░░░░░░░░░]  37.4% (234/625)
-  it (italian)         [███████░░░░░░░░░░░░░]  36.2% (226/625)
-  ko (korean)          [█████████░░░░░░░░░░░]  45.9% (287/625)
-  lv (latvian)         [██████████░░░░░░░░░░]  52.6% (329/625)
-  pl (polish)          [████████████████░░░░]  82.4% (515/625)
-  ru (russian)         [████████████████████] 100.0% (625/625)
-  sv (swedish)         [████████████░░░░░░░░]  62.9% (393/625)
-  tr (turkish)         [████████░░░░░░░░░░░░]  42.1% (263/625)
-  ua (ukrainian)       [████████████████████] 100.0% (625/625)
+  chi (schinese)       [█████████████████░░░]  87.9% (625/711)
+  de (german)          [██████████████░░░░░░]  72.2% (513/711)
+  en (english)         [████████████████████] 100.0% (711/711)
+  es (spanish)         [███████░░░░░░░░░░░░░]  39.9% (284/711)
+  fi (finnish)         [██████░░░░░░░░░░░░░░]  32.9% (234/711)
+  it (italian)         [██████░░░░░░░░░░░░░░]  31.8% (226/711)
+  ko (korean)          [████████░░░░░░░░░░░░]  40.4% (287/711)
+  lv (latvian)         [█████████░░░░░░░░░░░]  46.3% (329/711)
+  pl (polish)          [██████████████░░░░░░]  72.4% (515/711)
+  ru (russian)         [█████████████████░░░]  87.9% (625/711)
+  sv (swedish)         [███████████░░░░░░░░░]  55.3% (393/711)
+  tr (turkish)         [███████░░░░░░░░░░░░░]  37.0% (263/711)
+  ua (ukrainian)       [██████████████████░░]  91.4% (650/711)
 ```
 
 ## Menu Translation Status
@@ -79,9 +79,9 @@ Automated translation linter reports for cs2kz-metamod.
 
 ## Last Updated
 
-- **Commit:** [`a99cc4d`](https://github.com/himenekocn/cs2kz-metamod/commit/a99cc4d720c60064f86da22de800e653e62ec0ee)
-- **Time:** 2026-05-18 01:15:34 UTC
-- **Message:** update chinese translations
+- **Commit:** [`3f2949d`](https://github.com/himenekocn/cs2kz-metamod/commit/3f2949daeabc2292b2ee20290f4f23ba25f8b14e)
+- **Time:** 2026-05-29 18:29:11 UTC
+- **Message:** Fix compile errors
 
 ---
 
