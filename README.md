@@ -79,9 +79,9 @@ Automated translation linter reports for cs2kz-metamod.
 
 ## Last Updated
 
-- **Commit:** [`04b450d`](https://github.com/himenekocn/cs2kz-metamod/commit/04b450d4cd56b749d1e773b450fd1d07301e3b54)
-- **Time:** 2026-06-02 06:41:29 UTC
-- **Message:** update chi translations
+- **Commit:** [`4bc7437`](https://github.com/himenekocn/cs2kz-metamod/commit/4bc7437a7718cc5e9f70408093d9eeb5a1dc0eb5)
+- **Time:** 2026-06-02 13:01:19 UTC
+- **Message:** fix
 
 ---
 
